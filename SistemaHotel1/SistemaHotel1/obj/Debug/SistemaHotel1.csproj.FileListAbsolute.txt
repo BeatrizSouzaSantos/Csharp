@@ -1,0 +1,15 @@
+C:\Users\beatr\source\repos\SistemaHotel1\SistemaHotel1\obj\Debug\SistemaHotel1.frmLoguin.resources
+C:\Users\beatr\source\repos\SistemaHotel1\SistemaHotel1\obj\Debug\SistemaHotel1.csproj.GenerateResource.cache
+C:\Users\beatr\source\repos\SistemaHotel1\SistemaHotel1\obj\Debug\SistemaHotel1.csproj.CoreCompileInputs.cache
+C:\Users\beatr\source\repos\SistemaHotel1\SistemaHotel1\obj\Debug\SistemaHotel1.csprojAssemblyReference.cache
+C:\Users\beatr\source\repos\SistemaHotel1\SistemaHotel1\obj\Debug\SistemaHotel1.Cadastros.FrmFuncionarios.resources
+C:\Users\beatr\source\repos\SistemaHotel1\SistemaHotel1\obj\Debug\SistemaHotel1.Produtos.FrmProdutos.resources
+C:\Users\beatr\source\repos\SistemaHotel1\SistemaHotel1\obj\Debug\SistemaHotel.Properties.Resources.resources
+C:\Users\beatr\source\repos\SistemaHotel1\SistemaHotel1\bin\Debug\SistemaHotel.exe.config
+C:\Users\beatr\source\repos\SistemaHotel1\SistemaHotel1\bin\Debug\SistemaHotel.exe
+C:\Users\beatr\source\repos\SistemaHotel1\SistemaHotel1\bin\Debug\SistemaHotel.pdb
+C:\Users\beatr\source\repos\SistemaHotel1\SistemaHotel1\obj\Debug\SistemaHotel.exe
+C:\Users\beatr\source\repos\SistemaHotel1\SistemaHotel1\obj\Debug\SistemaHotel.pdb
+C:\Users\beatr\source\repos\SistemaHotel1\SistemaHotel1\obj\Debug\SistemaHotel.Reservas.FrmQuartos.resources
+C:\Users\beatr\source\repos\SistemaHotel1\SistemaHotel1\obj\Debug\SistemaHotel.NewFolder1.FrmCheckIn.resources
+C:\Users\beatr\source\repos\SistemaHotel1\SistemaHotel1\obj\Debug\SistemaHotel1.FrmMenu.resources
